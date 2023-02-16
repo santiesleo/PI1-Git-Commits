@@ -1,12 +1,18 @@
 # ***PI1-Git-Commits*** 💻️
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 04be7ff (add project description)
 <p style="text-align: justify">
     <i>GitHub repository to practice the use of git rebase, reset and cherry pick</i>
 </p>
 
+<<<<<<< HEAD
 >>>>>>> 1d95476 (add author)
+=======
+>>>>>>> 04be7ff (add project description)
 ## ***Build With*** 🛠️
 
 <div style="text-align: left">
